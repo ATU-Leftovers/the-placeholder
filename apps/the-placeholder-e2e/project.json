@@ -1,0 +1,9 @@
+{
+  "name": "the-placeholder-e2e",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/the-placeholder-e2e/src",
+  "tags": [],
+  "implicitDependencies": ["the-placeholder"],
+  "// targets": "to see all targets run: nx show project the-placeholder-e2e --web",
+  "targets": {}
+}
